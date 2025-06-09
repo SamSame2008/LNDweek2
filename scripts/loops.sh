@@ -6,7 +6,7 @@ done
 
 echo -e "\nFor loop with numbers:"
 for i in {1..5}; do
-echo"Count: $i"
+echo "Count: $i"
 done
 
 echo -e "\nWhile loop example;"
