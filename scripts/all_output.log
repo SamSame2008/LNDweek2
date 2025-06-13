@@ -1,0 +1,12 @@
+total 40
+-rw-rw-r-- 1 samuel samuel  58 Jun  9 14:49 all
+-rw-rw-r-- 1 samuel samuel   0 Jun  9 14:52 all_output.log
+-rwxrwxr-x 1 samuel samuel 395 Jun  9 12:24 check_file.sh
+-rw-rw-r-- 1 samuel samuel  64 Jun  9 14:44 error.log
+-rwxrwxr-x 1 samuel samuel  56 Jun  9 10:33 first_script.sh
+-rwxrwxr-x 1 samuel samuel 254 Jun  9 14:21 function.sh
+-rwxrwxr-x 1 samuel samuel 305 Jun  9 13:05 loops.sh
+-rw-rw-r-- 1 samuel samuel  19 Jun  9 14:37 output.txt
+-rwxrwxr-x 1 samuel samuel 111 Jun  9 14:36 redirection.sh
+-rwxrwxr-x 1 samuel samuel 110 Jun  9 11:09 user_input.sh
+-rwxrwxr-x 1 samuel samuel 237 Jun  9 10:44 variables.sh
